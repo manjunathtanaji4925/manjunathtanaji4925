@@ -16,4 +16,4 @@
 📦 Data Structures & Algorithms • 💻 Operating Systems • 🗄️ DBMS • 🌐 Computer Networks • ⚙️ Software Engineering
 
 ### 🛠️ Tools
-🔧 Git • 🐙 GitHub • 💻 VS Code • 📓 Jupyter Notebook
+🔧 Git • 🐙 GitHub • 💻 VS Code 
