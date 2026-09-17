@@ -17,3 +17,10 @@
 
 ### 🛠️ Tools
 🔧 Git • 🐙 GitHub • 💻 VS Code 
+
+
+## 🌐 Connect With Me
+
+🌐 [Portfolio](https://manjunathtanaji4925.github.io/Manjunath-Tanaji-Portfolio/)  
+🐙 [GitHub](https://github.com/manjunathtanaji4925)  
+💼 [LinkedIn](https://www.linkedin.com/in/manjunath-tanaji-4724422a7/)
